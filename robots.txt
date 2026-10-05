@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dipanshu08seh.github.io/calimaxx-site/sitemap.xml
